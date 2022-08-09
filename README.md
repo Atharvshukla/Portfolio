@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Interactive Resume Website - **https://atharvshukla.github.io/atharvshukla.me/**
+# Interactive Resume Website - **https://atharvshukla.github.io/Portfolio/**
 
 
 
